@@ -6,37 +6,27 @@ It helps developers refactor existing code and generate procedures based on Tran
 # Features
 AgilerRefactoring provides the following main functions:
 
-## Source Review
-Review and fix GeneXus source code based on very basic coding rules.
-
-## Updater Generator
-Generate an updater procedure using Business Components (BC).
-
-## Updater Generator (FE)
-Generate an updater procedure using For Each.
-
-## Retriever Generator
-Generate a retrieval procedure using For Each.
-
-## Trace Model Generator
-Under development (T.B.D).
+| Feature | Description |
+|---|---|
+| 🔍 Source Review | Review and fix GeneXus source code based on basic coding rules. |
+| ⚙️ Updater Generator | Generate an updater procedure using Business Components (BC). |
+| ⚙️ Updater Generator (FE) | Generate an updater procedure using `For Each`. |
+| 📥 Retriever Generator | Generate a retrieval procedure using `For Each`. |
+| 🧪 Trace Model Generator | Under development (T.B.D). |
 
 ---
 
 # Requirements
-
-GeneXus 18 U12
+GeneXus 18 U12 is tested.
 
 ---
 
 # Download
-
 The stable version is distributed via the GeneXus Marketplace.
 
 ---
 
 # Installation
-
 1. First, create the folder `C:\temp`.  
    (Log files are generated in this folder by default.)
 
@@ -51,20 +41,14 @@ The stable version is distributed via the GeneXus Marketplace.
 | Agiler.Packages.Refactorings.BL.dll | Packages folder | C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
 | Agiler.Packages.Refactorings.UI.dll | Packages folder | C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
 
-4. Open a command prompt, move to the GeneXus installation folder, and execute the following command:
-
-
-genexus.exe /install
-
+4. Open a command prompt, move to the GeneXus installation folder, and execute the following command: genexus.exe /install
 
 5. Start GeneXus.
 
 Example:
-
-
 cd "C:\Program Files (x86)\GeneXus\GeneXus18"
 genexus.exe /install
-
+genexus.exe 
 
 ---
 
@@ -80,24 +64,12 @@ Delete the following files from the corresponding folders.
 | Agiler.Packages.Refactorings.UI.dll | Packages folder |C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
 
 
-3. Open a command prompt, move to the GeneXus installation folder, and run:
-
-
-genexus.exe /install
+3. Open a command prompt, move to the GeneXus installation folder, and run: genexus.exe /install
 
 
 Example:
 cd "C:\Program Files (x86)\GeneXus\GeneXus18"
 genexus.exe /install
-
-
----
-
-# Tested Environment
-
-Confirmed to work with:
-
-GeneXus 18 U12
 
 ---
 
