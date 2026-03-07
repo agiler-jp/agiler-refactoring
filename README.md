@@ -54,7 +54,7 @@ genexus.exe
 
 # Uninstallation
 
-Delete the following files from the corresponding folders.
+1.Delete the following files from the corresponding folders.
 
 | File | Folder |Example Path |
 |-----|-----|-----|
@@ -64,7 +64,7 @@ Delete the following files from the corresponding folders.
 | Agiler.Packages.Refactorings.UI.dll | Packages folder |C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
 
 
-3. Open a command prompt, move to the GeneXus installation folder, and run: genexus.exe /install
+2. Open a command prompt, move to the GeneXus installation folder, and run: genexus.exe /install
 
 
 Example:
