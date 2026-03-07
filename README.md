@@ -32,7 +32,7 @@ GeneXus 18 U12 is tested.
 
 # Download
 The stable version is distributed via the GeneXus Marketplace.
-This is distributed only Binaries "as is". 
+This is distributed only binaries "as is". 
 
 ---
 
