@@ -1,6 +1,7 @@
 # AgilerRefactoring
 AgilerRefactoring is an experimental extension that supports refactoring and code generation for the GeneXus IDE.  
 It helps developers refactor existing code and generate procedures based on Transaction objects to improve productivity.
+This is distributed only Binaries "as is".
 
 ---
 # Features
