@@ -91,8 +91,7 @@ C:\Models\KB_Name_\AgilerRefactoringsSettings.json
 
 ---
 
-# Author
-
+# Author / Maintainer
 Miura Masayuki  
 System Development LLC
 
