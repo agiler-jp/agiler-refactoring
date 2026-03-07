@@ -6,10 +6,11 @@ It helps developers refactor existing code and generate procedures based on Tran
 ## Demo
 
 ### Procedure Generator
-[Watch the demo video](demoagilerref_createpro.mp4)
+https://youtu.be/YYYKrd6nq0k
 
 ### Refactoring Review
-[Watch the demo video](demoagilerref_refactoring.mp4)
+https://youtu.be/Uizw81qlA04
+
 ---
 # Features
 AgilerRefactoring provides the following main functions:
