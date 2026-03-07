@@ -4,10 +4,13 @@ It helps developers refactor existing code and generate procedures based on Tran
 
 
 ## Demo
+### Procedure Generator
 
-<video src="demoagilerref_createpro.mp4" controls width="800">demo1</video>
+<video src="demoagilerref_createpro.mp4" controls width="700"></video>
 
-<video src="demoagilerref_refactoring.mp4" controls width="800">demo2</video>
+### Refactoring Review
+
+<video src="demoagilerref_refactoring.mp4" controls width="700"></video>
 ---
 # Features
 AgilerRefactoring provides the following main functions:
