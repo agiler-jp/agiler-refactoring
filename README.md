@@ -44,18 +44,12 @@ The stable version is distributed via the GeneXus Marketplace.
 
 3. Extract the zip file and copy the following four files to the specified locations.
 
-
-Agiler.Refactorings.Common.dll -> Install folder (Example: C:\Program Files (x86)\GeneXus\GeneXus18)
-
-Newtonsoft.Json.dll -> Packages folder
-(Example: C:\Program Files (x86)\GeneXus\GeneXus18\Packages)
-
-Agiler.Packages.Refactorings.BL.dll -> Packages folder
-(Example: C:\Program Files (x86)\GeneXus\GeneXus18\Packages)
-
-Agiler.Packages.Refactorings.UI.dll -> Packages folder
-(Example: C:\Program Files (x86)\GeneXus\GeneXus18\Packages)
-
+| File | Destination Folder | Example Path |
+|-----|-----|-----|
+| Agiler.Refactorings.Common.dll | Install folder | C:\Program Files (x86)\GeneXus\GeneXus18 |
+| Newtonsoft.Json.dll | Packages folder | C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
+| Agiler.Packages.Refactorings.BL.dll | Packages folder | C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
+| Agiler.Packages.Refactorings.UI.dll | Packages folder | C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
 
 4. Open a command prompt, move to the GeneXus installation folder, and execute the following command:
 
@@ -76,18 +70,14 @@ genexus.exe /install
 
 # Uninstallation
 
-1. Delete the following file from the installation folder:
+Delete the following files from the corresponding folders.
 
-
-Agiler.Refactorings.Common.dll
-
-
-2. Delete the following three files from the `Packages` folder:
-
-
-Newtonsoft.Json.dll
-Agiler.Packages.Refactorings.BL.dll
-Agiler.Packages.Refactorings.UI.dll
+| File | Folder |Example Path |
+|-----|-----|-----|
+| Agiler.Refactorings.Common.dll | GeneXus Install folder |C:\Program Files (x86)\GeneXus\GeneXus18 |
+| Newtonsoft.Json.dll | Packages folder |C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
+| Agiler.Packages.Refactorings.BL.dll | Packages folder |C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
+| Agiler.Packages.Refactorings.UI.dll | Packages folder |C:\Program Files (x86)\GeneXus\GeneXus18\Packages |
 
 
 3. Open a command prompt, move to the GeneXus installation folder, and run:
@@ -97,8 +87,6 @@ genexus.exe /install
 
 
 Example:
-
-
 cd "C:\Program Files (x86)\GeneXus\GeneXus18"
 genexus.exe /install
 
