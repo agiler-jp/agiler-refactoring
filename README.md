@@ -151,3 +151,8 @@ https://agiler.jp/labs/AgilerRefactoring
 # Author / Maintainer
 Miura Masayuki  
 System Development LLC
+
+---
+
+## Special Thanks
+Special thanks to the GeneXus which provided valuable Architecture with SDK and peaple who support us.
