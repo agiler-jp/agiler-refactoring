@@ -87,14 +87,6 @@ Example:
 ```
 C:\Models\KB_Name_\AgilerRefactoringsSettings.json
 ```
-
-
----
-
-# Author / Maintainer
-Miura Masayuki  
-System Development LLC
-
 ---
 
 # Architecture
@@ -144,3 +136,8 @@ https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
 # AgilerRefactoring Project Website (Japanese)
 https://agiler.jp/labs/AgilerRefactoring
 
+---
+
+# Author / Maintainer
+Miura Masayuki  
+System Development LLC
