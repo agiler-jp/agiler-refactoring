@@ -46,9 +46,11 @@ The stable version is distributed via the GeneXus Marketplace.
 5. Start GeneXus.
 
 Example:
+```
 cd "C:\Program Files (x86)\GeneXus\GeneXus18"
 genexus.exe /install
 genexus.exe 
+```
 
 ---
 
@@ -68,8 +70,10 @@ genexus.exe
 
 
 Example:
+```
 cd "C:\Program Files (x86)\GeneXus\GeneXus18"
 genexus.exe /install
+```
 
 ---
 
@@ -80,9 +84,9 @@ genexus.exe /install
 A: Yes. Please customize the `HeaderTemplate` in the following configuration file located in the model folder:
 
 Example:
-
-
+```
 C:\Models\KB_Name_\AgilerRefactoringsSettings.json
+```
 
 
 ---
