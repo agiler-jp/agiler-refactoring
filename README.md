@@ -82,7 +82,7 @@ A: Yes. Please customize the `HeaderTemplate` in the following configuration fil
 Example:
 
 
-C:\Models\_KB_Name_\AgilerRefactoringsSettings.json
+C:\Models\KB_Name_\AgilerRefactoringsSettings.json
 
 
 ---
