@@ -156,3 +156,7 @@ System Development LLC
 
 ## Special Thanks
 Special thanks to the GeneXus which provided valuable Architecture with SDK and peaple who support us.
+
+## Acknowledgements
+This project benefited from valuable discussions and advice from members of the GeneXus community and our client.
+Their insights greatly helped shape the direction of this tool.
