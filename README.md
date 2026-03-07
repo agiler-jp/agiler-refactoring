@@ -134,10 +134,10 @@ Newtonsoft.Json is used for JSON serialization and deserialization.
 
 Project website  
 https://www.newtonsoft.com/json
+License  
+https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
 
 ---
 # AgilerRefactoring Project Website (Japanese)
 https://agiler.jp/labs/AgilerRefactoring
 
-License  
-https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
