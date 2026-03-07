@@ -142,6 +142,8 @@ https://www.newtonsoft.com/json
 License  
 https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
 
+See LICENSE-Newtonsoft.txt included in distribution.
+
 ---
 # AgilerRefactoring Project Website (Japanese)
 https://agiler.jp/labs/AgilerRefactoring
