@@ -3,6 +3,14 @@ AgilerRefactoring is an experimental extension that supports refactoring and cod
 It helps developers refactor existing code and generate procedures based on Transaction objects to improve productivity.
 
 ---
+## Demo
+
+### Procedure Generator
+[Watch the demo video](demoagilerref_createpro.mp4)
+
+### Refactoring Review
+[Watch the demo video](demoagilerref_refactoring.mp4)
+---
 # Features
 AgilerRefactoring provides the following main functions:
 
