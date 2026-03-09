@@ -97,6 +97,10 @@ Example:
 ```
 C:\Models\KB_Name_\AgilerRefactoringsSettings.json
 ```
+
+###Q: "Create Updater" does nothing when I select it.
+
+A: The updater generation requires the Transaction object to be configured as a Business Component (BC). Please check that the Business Component property is set to True. If it is not enabled, the process will be skipped and an error message will appear in the Output window.
 ---
 
 # Architecture
