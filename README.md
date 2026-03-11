@@ -24,7 +24,6 @@ AgilerRefactoring provides the following main functions:
 | 🧪 Trace Model Generator | Under development (T.B.D). |
 
 Note: After using the Source Review feature, it is recommended to compare the changes using the history in IDE. 
-Note: To select the BC version of "Create Updater", you must first enable the Business Component for the transaction object.
 
 ---
 
