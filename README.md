@@ -23,6 +23,8 @@ AgilerRefactoring provides the following main functions:
 | 📥 Retriever Generator | Generate a retrieval procedure using `For Each`. |
 | 🧪 Trace Model Generator | Under development (T.B.D). |
 
+After using the Source Review feature, it is recommended to compare the changes using the history in IDE.
+
 ---
 
 # Requirements
@@ -107,6 +109,27 @@ A: The updater generation requires the Transaction object to be configured as a 
 # Architecture
 
 Extension based on the GeneXus Platform SDK.
+
+### Avoiding technical debt with an IDE extension approach
+
+GeneXus provides mechanisms such as **KIP (XPZ import)** and **Patterns** to automatically generate objects.
+
+Patterns offer an excellent developer experience. However, they often require maintenance whenever GeneXus is upgraded. For community of free plugins, this can easily become long-term technical debt.
+Instead of relying on Patterns, it works as an **IDE extension** that generates only **standard GeneXus objects inside the KB**.
+
+This means the generated objects:
+- continue to work even if this extension is not installed
+- minimize framework dependencies
+- remain maintainable across future GeneXus upgrades
+
+### Design ideas behind Agiler Refactoring
+
+- **Avoid vendor lock-in**
+- **Future-proof design**
+- **Work with any Patterns like WwPlus**
+- **No dependency on this extension in GXserver**
+- When you upgrades GX with a KB, you do not need this extension.
+
 
 ---
 
